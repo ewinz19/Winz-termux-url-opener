@@ -16,8 +16,7 @@ sleep 2
 pkg update -y
 pkg install -y python python3 ffmpeg figlet openssl libjpeg-turbo
 
-# Upgrade pip
-pip install --upgrade pip
+# 
 
 # Install pip packages
 pip install pytubefix yt_dlp pillow requests piexif colorama
