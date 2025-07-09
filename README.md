@@ -9,6 +9,9 @@ bash Winz-termux-url-opener/install.sh
 rm -rf Winz-termux-url-opener
 ##
 
+<h2>Screenshot Cara pakai</h2>
+<h>bagikan video yang ingin didownload</h>
+<img src="https://raw.githubusercontent.com/ewinz19/Winz-termux-url-opener/main/Images/screenshot1.jpg" alt="Tampilan Notifikasi" width="300"/>
 
 ## 📄 License
 
