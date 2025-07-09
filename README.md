@@ -11,7 +11,12 @@ rm -rf Winz-termux-url-opener
 
 <h2>Screenshot Cara pakai</h2>
 <h>bagikan video yang ingin didownload</h>
-<img src="https://raw.githubusercontent.com/ewinz19/Winz-termux-url-opener/main/Images/screenshot1.jpg" alt="Tampilan Notifikasi" width="300"/>
+<img src="https://raw.githubusercontent.com/ewinz19/Winz-termux-url-opener/main/Images/screenshot4.jpg" alt="Tampilan Notifikasi" width="300"/>
+
+##
+
+<h2>Screenshot Tampilan</h2>
+<img src="https://raw.githubusercontent.com/ewinz19/Winz-termux-url-opener/main/Images/screenshot5.jpg" alt="Tampilan Notifikasi" width="300"/>
 
 ## 📄 License
 
